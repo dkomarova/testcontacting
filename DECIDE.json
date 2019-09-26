@@ -1,0 +1,138 @@
+{
+  "id": "1",
+  "name": "test",
+  "version": "1",
+  "highTechnologicalRisk": false,
+  "microservices": [
+    {
+      "id": "1234",
+      "endpoints": [
+        "https://test.com"
+      ]
+    }
+  ],
+  "schema": [
+    {
+      "microservices": [
+        "1"
+      ],
+      "csId": "13",
+      "index": 1
+    },
+    {
+      "microservices": [
+        "2"
+      ],
+      "csId": "14",
+      "index": 2
+    },
+    {
+      "microservices": [
+        "3"
+      ],
+      "csId": "16",
+      "index": 3
+    },
+    {
+      "microservices": [
+        "4"
+      ],
+      "csId": "17",
+      "index": 4
+    },
+    {
+      "microservices": [
+        "5"
+      ],
+      "csId": "19",
+      "index": 5
+    }
+  ],
+  "virtualMachines": [
+    {
+      "id": "1",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 1,
+      "cores": 1,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "d4bd53fb-ea29-4a4c-b2c0-2786bf4b853f",
+      "vmResourceId": "831d19c3-607a-48fe-8ba0-4149dd305c4f",
+      "vmRegionId": "42e01445-1996-403c-8652-fb1ebfc1ad05",
+      "instanceTypeId": "86d2c33d-24dc-4319-9f4a-10da58ffe605",
+      "keyPairId": "9bd0d231-9988-4b58-b1b5-886347f46a6a",
+      "cloudbrokerEndpoint": "https://stage.cloudbroker.com",
+      "cloudbrokerUsername": "acsmi-4370bc1279cc5607fae8@cloudbroker.com",
+      "cloudbrokerPassword": "96956e3ec0b8c1fdf9226707"
+    },
+    {
+      "id": "2",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 1,
+      "cores": 1,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "d4bd53fb-ea29-4a4c-b2c0-2786bf4b853f",
+      "vmResourceId": "831d19c3-607a-48fe-8ba0-4149dd305c4f",
+      "vmRegionId": "42e01445-1996-403c-8652-fb1ebfc1ad05",
+      "instanceTypeId": "86d2c33d-24dc-4319-9f4a-10da58ffe605",
+      "keyPairId": "9bd0d231-9988-4b58-b1b5-886347f46a6a",
+      "cloudbrokerEndpoint": "https://stage.cloudbroker.com",
+      "cloudbrokerUsername": "acsmi-4370bc1279cc5607fae8@cloudbroker.com",
+      "cloudbrokerPassword": "96956e3ec0b8c1fdf9226707"
+    },
+    {
+      "id": "3",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 1,
+      "cores": 1,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "d4bd53fb-ea29-4a4c-b2c0-2786bf4b853f",
+      "vmResourceId": "831d19c3-607a-48fe-8ba0-4149dd305c4f",
+      "vmRegionId": "42e01445-1996-403c-8652-fb1ebfc1ad05",
+      "instanceTypeId": "86d2c33d-24dc-4319-9f4a-10da58ffe605",
+      "keyPairId": "9bd0d231-9988-4b58-b1b5-886347f46a6a",
+      "cloudbrokerEndpoint": "https://stage.cloudbroker.com",
+      "cloudbrokerUsername": "acsmi-4370bc1279cc5607fae8@cloudbroker.com",
+      "cloudbrokerPassword": "96956e3ec0b8c1fdf9226707"
+    },
+    {
+      "id": "4",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 1,
+      "cores": 1,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "d4bd53fb-ea29-4a4c-b2c0-2786bf4b853f",
+      "vmResourceId": "831d19c3-607a-48fe-8ba0-4149dd305c4f",
+      "vmRegionId": "42e01445-1996-403c-8652-fb1ebfc1ad05",
+      "instanceTypeId": "86d2c33d-24dc-4319-9f4a-10da58ffe605",
+      "keyPairId": "9bd0d231-9988-4b58-b1b5-886347f46a6a",
+      "cloudbrokerEndpoint": "https://stage.cloudbroker.com",
+      "cloudbrokerUsername": "acsmi-4370bc1279cc5607fae8@cloudbroker.com",
+      "cloudbrokerPassword": "96956e3ec0b8c1fdf9226707"
+    },
+    {
+      "id": "5",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 1,
+      "cores": 1,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "d4bd53fb-ea29-4a4c-b2c0-2786bf4b853f",
+      "vmResourceId": "831d19c3-607a-48fe-8ba0-4149dd305c4f",
+      "vmRegionId": "42e01445-1996-403c-8652-fb1ebfc1ad05",
+      "instanceTypeId": "86d2c33d-24dc-4319-9f4a-10da58ffe605",
+      "keyPairId": "9bd0d231-9988-4b58-b1b5-886347f46a6a",
+      "cloudbrokerEndpoint": "https://stage.cloudbroker.com",
+      "cloudbrokerUsername": "acsmi-4370bc1279cc5607fae8@cloudbroker.com",
+      "cloudbrokerPassword": "96956e3ec0b8c1fdf9226707"
+    }
+  ]
+}
