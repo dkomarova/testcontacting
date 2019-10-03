@@ -1229,14 +1229,14 @@
       "cores": 2,
       "storage": 1,
       "image": "Ubuntu 16.04",
-      "vmSoftwareId": "ami-2657f630",
-      "vmResourceId": "ami-2657f630",
-      "vmRegionId": "ami-2657f630",
-      "instanceTypeId": "ami-2657f630",
-      "keyPairId": "adfa5cea-6bdf-4d15-8948-57d3f90e98e1",
-      "directEndpoint": "https://console.aws.amazon.com/",
-      "directUsername": "komarovadi1010@gmail.com",
-      "directPassword": "!6af365958c0e985b090de32"
+      "vmSoftwareId": "21b7ebed-5076-43b6-8351-0e06cf16eedc",
+      "vmResourceId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
+      "vmRegionId": "83dc7c1e-711c-4548-9a9e-128f9795cfed",
+      "instanceTypeId": "e3ca8e4c-0f91-4e83-9bd9-4cef88d054a8",
+      "keyPairId": "f3753765-d5b8-4a7e-a1a6-4631134f4e60",
+      "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com",
+      "cloudbrokerUsername": "acsmi-53f5d55959297b556be1@cloudbroker.com",
+      "cloudbrokerPassword": "ccbbcbb048efa4ca60e0de46"
     }
   ]
 }
