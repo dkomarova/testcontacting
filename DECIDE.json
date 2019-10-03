@@ -1206,21 +1206,21 @@
   "virtualMachines": [
     {
       "vmId": "0",
-      "csId": "7",
-      "cspName": "Arsys",
-      "cspId": "ARSY",
-      "ram": 2,
+      "csId": "13",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 4,
       "cores": 2,
       "storage": 1,
       "image": "Ubuntu 16.04",
-      "vmSoftwareId": "21b7ebed-5076-43b6-8351-0e06cf16eedc",
-      "vmResourceId": "27b1fb7b-2fd9-4042-8902-e4996e0bc420",
-      "vmRegionId": "d112253a-951f-417a-a1f1-3a892bf35a45",
-      "instanceTypeId": "f554e8a1-29d8-48e5-bd68-c01417576628",
+      "vmSoftwareId": "ami-2657f630",
+      "vmResourceId": "ami-2657f630",
+      "vmRegionId": "ami-2657f630",
+      "instanceTypeId": "ami-2657f630",
       "keyPairId": "97baaed0-2c33-42e1-936b-f60716998f7c",
-      "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com",
-      "cloudbrokerUsername": "acsmi-255c9ee9c0970b48c2fa@cloudbroker.com",
-      "cloudbrokerPassword": "a8de14cd7f3a3240def41098"
+      "directEndpoint": "https://console.aws.amazon.com/",
+      "directUsername": "sadadqd414est_contr@grwfwe.ewfew",
+      "directPassword": "04a597%a20f632780c67e169"
     }
   ]
 }
