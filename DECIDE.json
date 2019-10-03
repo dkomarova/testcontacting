@@ -1206,39 +1206,21 @@
   "virtualMachines": [
     {
       "vmId": "0",
-      "csId": "13",
-      "cspName": "Amazon",
-      "cspId": "AMAZ",
-      "ram": 4,
+      "csId": "15",
+      "cspName": "Arsys",
+      "cspId": "ARSY",
+      "ram": 2,
       "cores": 2,
       "storage": 1,
       "image": "Ubuntu 16.04",
-      "vmSoftwareId": "ami-2657f630",
-      "vmResourceId": "ami-2657f630",
-      "vmRegionId": "ami-2657f630",
-      "instanceTypeId": "ami-2657f630",
+      "vmSoftwareId": "21b7ebed-5076-43b6-8351-0e06cf16eedc",
+      "vmResourceId": "27b1fb7b-2fd9-4042-8902-e4996e0bc420",
+      "vmRegionId": "d112253a-951f-417a-a1f1-3a892bf35a45",
+      "instanceTypeId": "f554e8a1-29d8-48e5-bd68-c01417576628",
       "keyPairId": "a894fd7e-be02-487f-aa30-636020514f28",
-      "directEndpoint": "https://console.aws.amazon.com/",
-      "directUsername": "komarovadi501@gmail.com",
-      "directPassword": "fffde214c83df|e9d1e0a4c2"
-    },
-    {
-      "vmId": "1",
-      "csId": "13",
-      "cspName": "Amazon",
-      "cspId": "AMAZ",
-      "ram": 4,
-      "cores": 2,
-      "storage": 1,
-      "image": "Ubuntu 16.04",
-      "vmSoftwareId": "ami-2657f630",
-      "vmResourceId": "ami-2657f630",
-      "vmRegionId": "ami-2657f630",
-      "instanceTypeId": "ami-2657f630",
-      "keyPairId": "a894fd7e-be02-487f-aa30-636020514f28",
-      "directEndpoint": "https://console.aws.amazon.com/",
-      "directUsername": "komarovadi501@gmail.com",
-      "directPassword": "fffde214c83df|e9d1e0a4c2"
+      "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com",
+      "cloudbrokerUsername": "acsmi-1d6e3224eb4aa1c306fc@cloudbroker.com",
+      "cloudbrokerPassword": "7416622a3f2b85e3d087861b"
     }
   ]
 }
