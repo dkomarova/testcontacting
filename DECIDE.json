@@ -1199,24 +1199,8 @@
         "2b7f561e-2888-49d1-b8f7-f99e34c0667f",
         "7d44eb2e-dedc-4fa3-8a25-3082a156d672"
       ],
-      "csId": "1",
-      "vmId": 3
-    },
-    {
       "csId": "13",
-      "vmId": 4
-    },
-    {
-      "csId": "15",
-      "vmId": 5
-    },
-    {
-      "csId": "40",
-      "vmId": 6
-    },
-    {
-      "csId": "47",
-      "vmId": 8
+      "vmId": 1
     }
   ],
   "virtualMachines": [
