@@ -1202,10 +1202,12 @@
       "csId": "13",
       "vmId": 1
     },
-    {"csId": "13",
+    {
+      "csId": "13",
       "vmId": 1
     },
-    {"csId": "15",
+    {
+      "csId": "15",
       "vmId": 1
     }
   ],
@@ -1223,10 +1225,46 @@
       "vmResourceId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
       "vmRegionId": "83dc7c1e-711c-4548-9a9e-128f9795cfed",
       "instanceTypeId": "e3ca8e4c-0f91-4e83-9bd9-4cef88d054a8",
-      "keyPairId": "5784f28f-fafc-491a-a720-6a6cba8ee33e",
+      "keyPairId": "282fd7cd-6e7c-4694-8794-ac56e0b8a4cd",
       "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com",
-      "cloudbrokerUsername": "acsmi-e4ab880c22383ac587ff@cloudbroker.com",
-      "cloudbrokerPassword": "e6c1fe2e2de4eecebf117ce8"
+      "cloudbrokerUsername": "acsmi-831373c5e860b3a8a4a2@cloudbroker.com",
+      "cloudbrokerPassword": "519e310ac1d5c5f768b48c14"
+    },
+    {
+      "vmId": "1",
+      "csId": "13",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 4,
+      "cores": 2,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "21b7ebed-5076-43b6-8351-0e06cf16eedc",
+      "vmResourceId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
+      "vmRegionId": "83dc7c1e-711c-4548-9a9e-128f9795cfed",
+      "instanceTypeId": "e3ca8e4c-0f91-4e83-9bd9-4cef88d054a8",
+      "keyPairId": "282fd7cd-6e7c-4694-8794-ac56e0b8a4cd",
+      "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com",
+      "cloudbrokerUsername": "acsmi-831373c5e860b3a8a4a2@cloudbroker.com",
+      "cloudbrokerPassword": "519e310ac1d5c5f768b48c14"
+    },
+    {
+      "vmId": "1",
+      "csId": "15",
+      "cspName": "Arsys",
+      "cspId": "ARSY",
+      "ram": 2,
+      "cores": 2,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "21b7ebed-5076-43b6-8351-0e06cf16eedc",
+      "vmResourceId": "27b1fb7b-2fd9-4042-8902-e4996e0bc420",
+      "vmRegionId": "d112253a-951f-417a-a1f1-3a892bf35a45",
+      "instanceTypeId": "f554e8a1-29d8-48e5-bd68-c01417576628",
+      "keyPairId": "282fd7cd-6e7c-4694-8794-ac56e0b8a4cd",
+      "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com",
+      "cloudbrokerUsername": "acsmi-831373c5e860b3a8a4a2@cloudbroker.com",
+      "cloudbrokerPassword": "519e310ac1d5c5f768b48c14"
     }
   ]
 }
