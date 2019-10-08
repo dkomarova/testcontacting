@@ -1214,7 +1214,7 @@
   "virtualMachines": [
     {
       "vmId": "1",
-      "csId": "13",
+      "csId": "18",
       "cspName": "Amazon",
       "cspId": "AMAZ",
       "ram": 4,
