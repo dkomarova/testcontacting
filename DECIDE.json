@@ -1225,10 +1225,10 @@
       "vmResourceId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
       "vmRegionId": "83dc7c1e-711c-4548-9a9e-128f9795cfed",
       "instanceTypeId": "e3ca8e4c-0f91-4e83-9bd9-4cef88d054a8",
-      "keyPairId": "79ee1cfb-b050-4d64-ba9a-09a132bdff73",
+      "keyPairId": "716ff7cc-868c-4747-bcbf-57f419287a0d",
       "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com",
-      "cloudbrokerUsername": "acsmi-effb8d07862885775026@cloudbroker.com",
-      "cloudbrokerPassword": "e3ddd8faeaba751fac7d8365"
+      "cloudbrokerUsername": "acsmi-125ad8cb54a911407c9f@cloudbroker.com",
+      "cloudbrokerPassword": "d84ff9971b9ec1fa5989bccc"
     },
     {
       "vmId": "1",
@@ -1243,10 +1243,10 @@
       "vmResourceId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
       "vmRegionId": "83dc7c1e-711c-4548-9a9e-128f9795cfed",
       "instanceTypeId": "e3ca8e4c-0f91-4e83-9bd9-4cef88d054a8",
-      "keyPairId": "79ee1cfb-b050-4d64-ba9a-09a132bdff73",
+      "keyPairId": "716ff7cc-868c-4747-bcbf-57f419287a0d",
       "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com",
-      "cloudbrokerUsername": "acsmi-effb8d07862885775026@cloudbroker.com",
-      "cloudbrokerPassword": "e3ddd8faeaba751fac7d8365"
+      "cloudbrokerUsername": "acsmi-125ad8cb54a911407c9f@cloudbroker.com",
+      "cloudbrokerPassword": "d84ff9971b9ec1fa5989bccc"
     },
     {
       "vmId": "1",
@@ -1261,10 +1261,10 @@
       "vmResourceId": "27b1fb7b-2fd9-4042-8902-e4996e0bc420",
       "vmRegionId": "d112253a-951f-417a-a1f1-3a892bf35a45",
       "instanceTypeId": "f554e8a1-29d8-48e5-bd68-c01417576628",
-      "keyPairId": "79ee1cfb-b050-4d64-ba9a-09a132bdff73",
+      "keyPairId": "716ff7cc-868c-4747-bcbf-57f419287a0d",
       "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com",
-      "cloudbrokerUsername": "acsmi-effb8d07862885775026@cloudbroker.com",
-      "cloudbrokerPassword": "e3ddd8faeaba751fac7d8365"
+      "cloudbrokerUsername": "acsmi-125ad8cb54a911407c9f@cloudbroker.com",
+      "cloudbrokerPassword": "d84ff9971b9ec1fa5989bccc"
     }
   ]
 }
