@@ -1203,15 +1203,61 @@
       "vmId": 1
     },
     {
-     "csId": "19",
+      "csId": "19",
       "vmId": 1
     },
     {
-     "csId": "18",
+      "csId": "18",
       "vmId": 1
     }
-   ],
+  ],
   "virtualMachines": [
-   
+    {
+      "vmId": "1",
+      "csId": "30",
+      "ownCredentials": true,
+      "cspName": "Microsoft Azure CloudBroker GmbH ",
+      "cspId": "369f40d5-d5e8-49e8-b9fa-593811972137",
+      "tenantId::DirectoryId": "101010",
+      "clientId": "54123584",
+      "clientSecret": "esdfgvhmj,kl",
+      "subscriptionId": "asdfghjk`123456789"
+    },
+    {
+      "vmId": "1",
+      "csId": "19",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 4,
+      "cores": 2,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "ami-2657f630",
+      "vmResourceId": "ami-2657f630",
+      "vmRegionId": "ami-2657f630",
+      "instanceTypeId": "ami-2657f630",
+      "keyPairId": "b7278d6a-d882-433b-9309-5d3e840786ef",
+      "directEndpoint": "https://console.aws.amazon.com/",
+      "directUsername": "komarovadi0101122222@gmail.com",
+      "directPassword": "0f7!3cef54dddf7fd8bb9d6a"
+    },
+    {
+      "vmId": "1",
+      "csId": "18",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 4,
+      "cores": 2,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "ami-2657f630",
+      "vmResourceId": "ami-2657f630",
+      "vmRegionId": "ami-2657f630",
+      "instanceTypeId": "ami-2657f630",
+      "keyPairId": "b7278d6a-d882-433b-9309-5d3e840786ef",
+      "directEndpoint": "https://console.aws.amazon.com/",
+      "directUsername": "komarovadi0101122222@gmail.com",
+      "directPassword": "0f7!3cef54dddf7fd8bb9d6a"
+    }
   ]
 }
