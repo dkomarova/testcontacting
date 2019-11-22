@@ -1201,6 +1201,14 @@
       ],
       "csId": "30",
       "vmId": 1
+    },
+    {
+     "csId": "19",
+      "vmId": 1
+    },
+    {
+     "csId": "18",
+      "vmId": 1
     }
    ],
   "virtualMachines": [
