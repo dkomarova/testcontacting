@@ -1237,10 +1237,6 @@
     {
       "csId": "27",
       "vmId": 1
-    },
-      {
-      "csId": "43",
-      "vmId": 1
     }
   ],
   "virtualMachines": [
