@@ -1240,6 +1240,126 @@
     }
   ],
   "virtualMachines": [
-     
+    {
+      "vmId": "1",
+      "csId": "30",
+      "ownCredentials": true,
+      "cspName": "Microsoft Azure CloudBroker GmbH ",
+      "cspId": "369f40d5-d5e8-49e8-b9fa-593811972137",
+      "tenantId::DirectoryId": "tentant",
+      "clientId": "client",
+      "clientSecret": "secret",
+      "subscriptionId": "subscr"
+    },
+    {
+      "vmId": "1",
+      "csId": "19",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 4,
+      "cores": 2,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "21b7ebed-5076-43b6-8351-0e06cf16eedc",
+      "vmResourceId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
+      "vmRegionId": "83dc7c1e-711c-4548-9a9e-128f9795cfed",
+      "instanceTypeId": "e3ca8e4c-0f91-4e83-9bd9-4cef88d054a8",
+      "keyPairId": "482492c6-1e38-4ba7-82f0-7e30baa7ce54",
+      "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com"
+    },
+    {
+      "vmId": "1",
+      "csId": "3",
+      "ownCredentials": true,
+      "cspName": "Arsys CloudBuilder CloudBroker GmbH",
+      "cspId": "27b1fb7b-2fd9-4042-8902-e4996e0bc420",
+      "apiToken": "API token"
+    },
+    {
+      "vmId": "1",
+      "csId": "4",
+      "ownCredentials": true,
+      "cspName": "Arsys CloudBuilder CloudBroker GmbH",
+      "cspId": "27b1fb7b-2fd9-4042-8902-e4996e0bc420",
+      "apiToken": "API token"
+    },
+    {
+      "vmId": "1",
+      "csId": "9",
+      "ownCredentials": true,
+      "cspName": "Arsys CloudBuilder CloudBroker GmbH",
+      "cspId": "27b1fb7b-2fd9-4042-8902-e4996e0bc420",
+      "apiToken": "API token"
+    },
+    {
+      "vmId": "1",
+      "csId": "31",
+      "ownCredentials": true,
+      "cspName": "Microsoft Azure CloudBroker GmbH ",
+      "cspId": "369f40d5-d5e8-49e8-b9fa-593811972137",
+      "tenantId::DirectoryId": "tentant",
+      "clientId": "client",
+      "clientSecret": "secret",
+      "subscriptionId": "subscr"
+    },
+    {
+      "vmId": "1",
+      "csId": "18",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 4,
+      "cores": 2,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "21b7ebed-5076-43b6-8351-0e06cf16eedc",
+      "vmResourceId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
+      "vmRegionId": "83dc7c1e-711c-4548-9a9e-128f9795cfed",
+      "instanceTypeId": "e3ca8e4c-0f91-4e83-9bd9-4cef88d054a8",
+      "keyPairId": "482492c6-1e38-4ba7-82f0-7e30baa7ce54",
+      "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com"
+    },
+    {
+      "vmId": "1",
+      "csId": "34",
+      "ownCredentials": true,
+      "cspName": "Microsoft Azure CloudBroker GmbH ",
+      "cspId": "369f40d5-d5e8-49e8-b9fa-593811972137",
+      "tenantId::DirectoryId": "tentant",
+      "clientId": "client",
+      "clientSecret": "secret",
+      "subscriptionId": "subscr"
+    },
+    {
+      "vmId": "1",
+      "csId": "13",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 4,
+      "cores": 2,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "21b7ebed-5076-43b6-8351-0e06cf16eedc",
+      "vmResourceId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
+      "vmRegionId": "83dc7c1e-711c-4548-9a9e-128f9795cfed",
+      "instanceTypeId": "e3ca8e4c-0f91-4e83-9bd9-4cef88d054a8",
+      "keyPairId": "482492c6-1e38-4ba7-82f0-7e30baa7ce54",
+      "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com"
+    },
+    {
+      "vmId": "1",
+      "csId": "27",
+      "cspName": "Amazon",
+      "cspId": "AMAZ",
+      "ram": 4,
+      "cores": 2,
+      "storage": 1,
+      "image": "Ubuntu 16.04",
+      "vmSoftwareId": "21b7ebed-5076-43b6-8351-0e06cf16eedc",
+      "vmResourceId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
+      "vmRegionId": "83dc7c1e-711c-4548-9a9e-128f9795cfed",
+      "instanceTypeId": "e3ca8e4c-0f91-4e83-9bd9-4cef88d054a8",
+      "keyPairId": "482492c6-1e38-4ba7-82f0-7e30baa7ce54",
+      "cloudbrokerEndpoint": "https://decide-prototype.cloudbroker.com"
+    }
   ]
 }
