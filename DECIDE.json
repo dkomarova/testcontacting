@@ -1199,44 +1199,51 @@
         "2b7f561e-2888-49d1-b8f7-f99e34c0667f",
         "7d44eb2e-dedc-4fa3-8a25-3082a156d672"
       ],
+      "csId": "30",
+      "vmId": 1
+    },
+    {
+      "csId": "19",
+      "vmId": 1
+    },
+      {
+      "csId": "3",
+      "vmId": 1
+    },
+      {
+      "csId": "4",
+      "vmId": 1
+    },
+      {
+      "csId": "9",
+      "vmId": 1
+    },
+      {
+      "csId": "31",
+      "vmId": 1
+    },
+      {
       "csId": "18",
       "vmId": 1
     },
-    {
-      "csId": "14",
+      {
+      "csId": "34",
+      "vmId": 1
+    },
+      {
+      "csId": "13",
       "vmId": 1
     },
     {
-      "csId": "15",
+      "csId": "27",
+      "vmId": 1
+    },
+      {
+      "csId": "43",
       "vmId": 1
     }
   ],
   "virtualMachines": [
-    {
-      "vmId": "1",
-      "csId": "18",
-      "ownCredentials": true,
-      "cspName": "Amazon EC2 CloudBroker GmbH",
-      "cspId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
-      "accessKeyIdentifier": "cdcdcdcd",
-      "secretAccessKey": "cdcdcdcdcdcdcdcd"
-    },
-    {
-      "vmId": "1",
-      "csId": "14",
-      "ownCredentials": true,
-      "cspName": "Amazon EC2 CloudBroker GmbH",
-      "cspId": "05d76ee4-3b7e-4726-8ff3-eb24f667c70d",
-      "accessKeyIdentifier": "cdcdcdcd",
-      "secretAccessKey": "cdcdcdcdcdcdcdcd"
-    },
-    {
-      "vmId": "1",
-      "csId": "15",
-      "ownCredentials": true,
-      "cspName": "Arsys CloudBuilder CloudBroker GmbH",
-      "cspId": "27b1fb7b-2fd9-4042-8902-e4996e0bc420",
-      "apiToken": "dcdd vfd ddcdcd"
-    }
+   
   ]
 }
